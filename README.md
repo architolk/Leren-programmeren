@@ -48,3 +48,7 @@ In beide gevallen kan het goed zijn dat jou programma niet goed werkt. Je kijkt 
 Het het super leuk om het eindresultaat in de klas te laten zien! Laat de groep vertellen wat ze hebben gedaan, en probeer daarbij de stappen van design thinking aan te houden. Tenslotte kun je het eindresultaat laten zien. Met de B-bot kun je dit op de grond van het klaslokaal doen, met scratch kan dit eventueel op het smartbord, of direct achter de chromebooks.
 
 ![](media/in-de-klas.png)
+
+## Vaardigheden van de 21e eeuw
+Met leren programmeren werken we aan de vaardigheden van de 21e eeuw. Op een manier die voor kinderen niet direct wordt ervaren als "in de klas zitten". Mogelijk komt dit doordat de nadruk niet ligt op het het opdoen van kennis, maar op het creatieve proces. En je zit natuurlijk ook niet letterlijk meer "in de klas"! Onderstaand figuur, ontwikkeld door SLO en Kennisnet, geeft een overzicht van deze vaardigheden. Goed zichtbaar is de samenhang tussen deze vaardigheden en design thinking!
+![](media/21e_eeuwse_vaardigheden.jpg)
