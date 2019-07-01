@@ -1,19 +1,23 @@
-# Leren Programmeren - vaardigheden voor de 21e eeuw
-Cursusmateriaal voor Leren Programmeren op basis van Scratch en BeeBot
+# Leren Programmeren - vaardigheden van de 21e eeuw
+Cursusmateriaal voor Leren Programmeren op basis van Scratch en BeeBot. Vaardigheden van de 21e eeuw leren door te doen.
 
-## Design thinking
+## Design thinking ("ontwerpend leren")
 "Programmeren" gaat over creatie: het maken van nieuwe dingen. Creatieve mensen kunnen ontzettend goed zijn in programmeren! En er komt meer kijken bij programmeren. Je bent met programmeren bezig met het oplossen van een probleem. En niet zomaar een probleem, maar een probleem van iemand anders! Je kunt je inleven in het probleem van de ander. En je kunt plannen, je kijkt vooruit hoe je dit probleem kunt oplossen. Dit komt samen in de stappen van design thinking:
 
-1. Inleven: je verzamelt informatie over het probleem dat je voor de ander wilt oplossen. Je probeert te begrijpen waar de ander mee zit.
-2. Afbakenen: je kiest wat je wel en niet gaat oplossen. Je kunt niet alles doen! Je bedenkt wat jij kunt oplossen van het probleem van de ander.
-3. Ideeën bedenken: je gaat verzinnen hoe je het probleem kunt oplossen. Niets is hier te gek! Hoe meer ideeën hoe beter!
-4. Ontwerpen: uit alle ideeën kies je wat het beste werkt. Wat het beste het probleem oplost, en door jou goed is te maken. Je beschrijft zo goed mogelijk hoe jou oplossing in elkaar zit, en denkt alvast na wat er eventueel mis kan gaan.
-5. Maken: je gaat aan de slag om je ontwerp te maken!
-6. Testen: nadat het maken van de oplossing, ga je het testen. Je probeert uit of jou oplossing het probleem oplost. Je laat het zien aan anderen, en aan de persoon voor wie je een oplossing hebt bedacht.
+1. Inleven & afbakenen: je verzamelt informatie over het probleem dat je voor de ander wilt oplossen. Je probeert te begrijpen waar de ander mee zit. Je kiest wat je wel en niet gaat oplossen. Je kunt niet alles doen! Je bedenkt wat jij kunt oplossen van het probleem van de ander.
+2. Ideeën bedenken: je gaat verzinnen hoe je het probleem kunt oplossen. Niets is hier te gek! Hoe meer ideeën hoe beter!
+3. Ontwerpen: uit alle ideeën kies je wat het beste werkt. Wat het beste het probleem oplost, en door jou goed is te maken. Je beschrijft zo goed mogelijk hoe jou oplossing in elkaar zit, en denkt alvast na wat er eventueel mis kan gaan.
+4. Maken: je gaat aan de slag om je ontwerp te maken!
+5. Testen: nadat het maken van de oplossing, ga je het testen. Je probeert uit of jou oplossing het probleem oplost. Je laat het zien aan anderen, en aan de persoon voor wie je een oplossing hebt bedacht.
+6. Presenteren: je laat je oplossing zien.
 
 Design thinking is een herhalend proces: het kan zijn dat je oplossing bij het testen toch nog niet helemaal goed is. Geeft niet! Hoe meer je probeert, hoe beter je oplossing wordt. Je hoeft dus niet helemaal opnieuw te beginnen. Je zult zien dat je de stappen steeds sneller zult doorlopen.
 
 ![Design Thinking](/media/design-thinking.png)
+
+Dit filmpje ([deel 1](https://youtu.be/gGuG8Bb5Fpw) en [deel 2](https://youtu.be/6bgHopWrPrg)) geeft een goed beeld van design thinking ("ontwerpend leren") in de klas.
+
+Design thinking is een ontwerpaanpak. Iedereen kan deze aanpak gebruiken bij het maken van nieuwe dingen. Dus ook voor het ontwikkelen van lesmateriaal! Zie ook [slimmerlerenmetict](https://www.slimmerlerenmetict.nl/artikel/waar-kan-ik-design-thinking-voor-inzetten).
 
 ## Leren programmeren in de klas
 
@@ -50,5 +54,5 @@ Het het super leuk om het eindresultaat in de klas te laten zien! Laat de groep 
 ![](media/in-de-klas.png)
 
 ## Vaardigheden van de 21e eeuw
-Met leren programmeren werken we aan de vaardigheden van de 21e eeuw. Op een manier die voor kinderen niet direct wordt ervaren als "in de klas zitten". Mogelijk komt dit doordat de nadruk niet ligt op het het opdoen van kennis, maar op het creatieve proces. En je zit natuurlijk ook niet letterlijk meer "in de klas"! Onderstaand figuur, ontwikkeld door SLO en Kennisnet, geeft een overzicht van deze vaardigheden. Goed zichtbaar is de samenhang tussen deze vaardigheden en design thinking!
+Met leren programmeren werken we aan de vaardigheden van de 21e eeuw. Op een manier die voor kinderen niet direct wordt ervaren als "in de klas zitten". Mogelijk komt dit doordat de nadruk niet ligt op het het opdoen van kennis, maar op het creatieve proces: leren door te doen. En je zit natuurlijk ook niet letterlijk meer "in de klas"! Onderstaand figuur, [ontwikkeld door SLO en Kennisnet](https://www.kennisnet.nl/artikel/alles-wat-je-moet-weten-over-21e-eeuwse-vaardigheden/), geeft een overzicht van deze vaardigheden. Goed zichtbaar is de samenhang tussen deze vaardigheden en design thinking!
 ![](media/21e_eeuwse_vaardigheden.jpg)
