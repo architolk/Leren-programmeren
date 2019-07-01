@@ -56,3 +56,19 @@ Het het super leuk om het eindresultaat in de klas te laten zien! Laat de groep 
 ## Vaardigheden van de 21e eeuw
 Met leren programmeren werken we aan de vaardigheden van de 21e eeuw. Op een manier die voor kinderen niet direct wordt ervaren als "in de klas zitten". Mogelijk komt dit doordat de nadruk niet ligt op het het opdoen van kennis, maar op het creatieve proces: leren door te doen. En je zit natuurlijk ook niet letterlijk meer "in de klas"! Onderstaand figuur, [ontwikkeld door SLO en Kennisnet](https://www.kennisnet.nl/artikel/alles-wat-je-moet-weten-over-21e-eeuwse-vaardigheden/), geeft een overzicht van deze vaardigheden. Goed zichtbaar is de samenhang tussen deze vaardigheden en design thinking!
 ![](media/21e_eeuwse_vaardigheden.jpg)
+
+## B-Bot
+
+![](media/B-bot.jpeg)
+
+De B-bot is een makkelijke manier om te beginnen met programmeren. Het is al geschikt voor kinderen vanaf groep 1! Naast programmeren leren kinderen ook richting, zoals links en rechts. Maar ook je inbeelden in de ander. Want als de B-bot op je af komt, dan is links en rechts voor de B-bot iets anders dan voor jou!
+
+Het is goed te doen om zelf opdrachten te bedenken voor de B-bot. Zie ook op deze site. Meer informatie en opdrachten zijn bijvoorbeeld hier te vinden: [www.edubot.nl](http://www.edubot.nl/projecten/bee-en-bluebot)
+
+## Scratch
+
+![](scratch.png)
+
+Scratch is een programmeertaal speciaal ontwikkeld voor kinderen, door het M.I.T. Je kunt er spelletjes mee maken, tekenfilmpjes en nog veel meer! En je leert programmeren op een manier die lijkt op het bouwen met lego.
+
+Scratch werkt direct vanaf het internet, via de website [scratch.mit.edu](https://scratch.mit.edu). Klik op "Aan de slag" en probeer het uit! Via het wereldbolletje linksboven kun je kiezen voor "Nederlands", zodat je gewoon met Nederlandse woorden kunt programmeren.
