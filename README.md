@@ -67,7 +67,7 @@ Het is goed te doen om zelf opdrachten te bedenken voor de B-bot. Zie ook op dez
 
 ## Scratch
 
-![](scratch.png)
+![](media/scratch.png)
 
 Scratch is een programmeertaal speciaal ontwikkeld voor kinderen, door het M.I.T. Je kunt er spelletjes mee maken, tekenfilmpjes en nog veel meer! En je leert programmeren op een manier die lijkt op het bouwen met lego.
 
